@@ -1,5 +1,5 @@
 {
-  "target_ipv6": "2402:380:4420:2907:26dc:26e8:a:248",
+  "target_ipv6": "2402:3a80:466b:310:af8d:bc09:c440:b0c2",
   "port": 8081,
   "callback_port": 9090
 }
